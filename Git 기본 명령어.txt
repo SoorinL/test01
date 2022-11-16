@@ -1,0 +1,10 @@
+Git 명령어 기본
+git init
+git add .
+git commit -m "first commit"
+git config --global user.email "waterrin47@gmail.com"
+git config --global user.name "SoorinL"
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SoorinL/test01.git
+git push -u origin main
